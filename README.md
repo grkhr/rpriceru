@@ -1,2 +1,2 @@
 # rpriceru
-get stats from price.ru
+get stats from rpriceru
